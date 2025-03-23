@@ -1,0 +1,25 @@
+.main{
+    display: inline-block;
+    border: 2PX SOLID black;
+}
+ .a{
+    height: 100px;
+    width: 500px;
+    background-color: #8bd3f4;
+ }
+ .b{
+    height: 100px;
+    width: 500px;
+    background-color: #ffffff;
+ }
+.c{
+    height: 100px;
+    width: 500px;
+    background-color: #8bd3f4;
+}
+img{
+    height: 100px;
+    width: 100px;
+    position: absolute;
+    left: 190px;
+}
